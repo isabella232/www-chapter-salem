@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [David Kingsly](mailto:david.kingsly@owasp.org)
+* [Sathish Kumar](mailto:sarhish.kumar@owasp.org)
