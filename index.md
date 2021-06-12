@@ -18,7 +18,7 @@ Chapters Are Led By Local Leaders In Accordance with the [Chapters Policy](/www-
 
 Everyone Is Welcome And Encouraged To Participate In Our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/), And [Community Slack Channel](https://owasp.slack.com/). We Especially Encourage Diversity An All Our Initiatives. OWASP Is A Fantastic Place To learn About Application Security, To Network, And Even To Build Your Reputation As An Expert. We Also Encourage You To Be [Become A Member](/membership/) Or Consider A [Donation](/donate/) To Support Our Ongoing Work.
 
-```Switch To Speakers Tab For More Information On Presenting Your Research Or Talk On OWASP Salen Chapter```
+```Switch To Speakers Tab For More Information On Presenting Your Research Or Talk On OWASP Salem Chapter```
 
 ## Upcoming Events
 Soon
