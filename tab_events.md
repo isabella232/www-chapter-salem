@@ -13,4 +13,4 @@ tags: OWASP Salem
 
 <img src="assets/images/Introduction_CyberSecurity.png" width="500" height="500" />
 
-- Registration Link: (https://bit.ly/3jJx9k1) 
+- Registration Link: [https://bit.ly/3jJx9k1](https://bit.ly/3jJx9k1)
