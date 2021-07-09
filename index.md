@@ -22,6 +22,4 @@ Everyone Is Welcome And Encouraged To Participate In Our [Projects](/projects/),
 
 ## Upcoming Events
 
-#### Introduction To CyberSecurity - Friday, 9 July 2021, 1 PM (IST)
-
-- Registration Link: [https://bit.ly/3jJx9k1](https://bit.ly/3jJx9k1)
+Soon
