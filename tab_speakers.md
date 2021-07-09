@@ -11,7 +11,7 @@ tags: OWASP Salem
 
 Would You Like To Speak On The Upcoming Events On OWASP Salem?, Contact Us Via Email
 * [David Kingsly](mailto:david.kingsly@owasp.org)
-* [Sathish Kumar](sarhish.kumar@owasp.org)
+* [Sathish Kumar](mailto:sathish.kumar@owasp.org)
 
 **Email Format :**
 
