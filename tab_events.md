@@ -10,7 +10,7 @@ tags: OWASP Salem
 ## Upcoming Events
 ### Social Engineering - Sunday, 23 January 2022, 3:00 PM
 
-<img src="assets/images/Social_Engineering.png" width="400" height="400" />
+<img src="assets/images/Social%20Engineering.png" width="400" height="400" />
 
 - [Registration Link](https://forms.gle/qeCM3SWK8GSvVjvA6)
 
