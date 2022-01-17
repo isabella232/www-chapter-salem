@@ -8,11 +8,12 @@ tags: OWASP Salem
 ---
 
 ## Upcoming Events
+### Social Engineering - Sundat, 22 Sunday 2022, 3:00 PM
 
-Soon
+<img src="assets/images/Social_Engineering.png" width="400" height="400" />
 
 ## Past Events
-### Introduction To CyberSecurity - Friday, 9 July 2021, 1 PM (IST)
+### Introduction To CyberSecurity - Friday, 9 July 2021, 1:00 PM
 
 <img src="assets/images/Introduction_CyberSecurity.png" width="400" height="400" />
 
