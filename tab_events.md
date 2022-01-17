@@ -8,7 +8,7 @@ tags: OWASP Salem
 ---
 
 ## Upcoming Events
-### Social Engineering - Sunday, 22 January 2022, 3:00 PM
+### Social Engineering - Sunday, 23 January 2022, 3:00 PM
 
 <img src="assets/images/Social_Engineering.png" width="400" height="400" />
 
