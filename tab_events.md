@@ -8,7 +8,7 @@ tags: OWASP Salem
 ---
 
 ## Upcoming Events
-### Social Engineering - Event Postponed
+### Social Engineering - Saturday, 26 February 2022, 3:00 PM
 
 <img src="assets/images/Social%20Engineering.png" width="400" height="400" />
 
