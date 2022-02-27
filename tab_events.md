@@ -12,7 +12,7 @@ tags: OWASP Salem
 
 <img src="assets/images/OWASP_Social_Eng.png" width="400" height="400" />
 
-- [Registration Link](https://forms.gle/qeCM3SWK8GSvVjvA6)
+- [Event Link](https://us06web.zoom.us/j/86866670614?pwd=WmswbUhqN3p6VjRLK2hYQXQycFk2UT09)
 
 ## Past Events
 ### Introduction To CyberSecurity - Friday, 9 July 2021, 1:00 PM
