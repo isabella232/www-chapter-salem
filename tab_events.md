@@ -8,14 +8,16 @@ tags: OWASP Salem
 ---
 
 ## Upcoming Events
-### Social Engineering - Sunday, 27 February 2022, 3:00 PM
+#### Will Be There Soon...
+
+## Past Events
+### Social Engineering | Sunday, 27 February 2022, 3:00 PM
 
 <img src="assets/images/OWASP_Social_Eng.png" width="400" height="400" />
 
-- [Event Link](https://us06web.zoom.us/j/86866670614?pwd=WmswbUhqN3p6VjRLK2hYQXQycFk2UT09)
+- [Slides And Recorded Session](https://drive.google.com/drive/folders/1uQAdxxNM4dhQ9oxVZzmosQO8x1cCxlK2?usp=sharing)
 
-## Past Events
-### Introduction To CyberSecurity - Friday, 9 July 2021, 1:00 PM
+### Introduction To CyberSecurity | Friday, 9 July 2021, 1:00 PM
 
 <img src="assets/images/Introduction_CyberSecurity.png" width="400" height="400" />
 
